@@ -1,0 +1,10 @@
+# Akebi - Simple system information Checker
+
+A simple script to show your system information written in Python. See [original repository](https://github.com/herobuxx/akebi)
+ written in bash
+
+## Usage
+There's no special stuff yet. Just type:
+```
+$ python akebi.py
+```
